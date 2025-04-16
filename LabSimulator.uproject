@@ -41,6 +41,10 @@
 				"Linux",
 				"Android"
 			]
+		},
+		{
+			"Name": "MySqlConnect",
+			"Enabled": false
 		}
 	]
 }
