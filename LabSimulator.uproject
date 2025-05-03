@@ -41,6 +41,14 @@
 				"Linux",
 				"Android"
 			]
+		},
+		{
+			"Name": "MySqlConnect",
+			"Enabled": false
+		},
+		{
+			"Name": "GeometryScripting",
+			"Enabled": true
 		}
 	]
 }
